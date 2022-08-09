@@ -1,2 +1,2 @@
 # kawempe-modern-primary-school
-Use https://freshteacher.software/kawempe-modern-primary-school/ to visit it's website
+Use https://freshteacher.tech/kawempe-modern-primary-school/ to visit it's website
